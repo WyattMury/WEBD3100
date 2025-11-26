@@ -20,7 +20,7 @@ header {
     display: flex;
     flex-direction: column;
     padding: 32px;
-    gap: 32; 
+    gap: 32px; 
 }
 
 .separator {
@@ -39,6 +39,13 @@ header {
 }
 
 .logo-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.nav-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
