@@ -37,3 +37,10 @@ header {
     width: 304px;
     height: auto;
 }
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+}
