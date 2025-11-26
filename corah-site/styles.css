@@ -50,4 +50,5 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 16px;
+    justify-content: flex-end;
 }
