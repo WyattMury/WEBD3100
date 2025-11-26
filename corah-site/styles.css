@@ -25,5 +25,15 @@ header {
 
 .separator {
     border-top: 2px solid #7b458f;
-    
+}
+
+.brand-logo {
+    width: 128px;
+    height: auto;
+}
+
+
+.brand-wordmark {
+    width: 304px;
+    height: auto;
 }
